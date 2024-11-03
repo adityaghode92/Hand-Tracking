@@ -21,8 +21,8 @@ This project demonstrates hand tracking in a virtual environment using OpenCV, M
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/adityaghode92/hand-tracking.git
-   cd hand-tracking
+   git clone https://github.com/adityaghode92/Hand-tracking.git
+   cd Hand-tracking
    ```
 
 2. **Python Dependencies**:
